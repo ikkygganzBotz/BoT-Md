@@ -5,10 +5,10 @@
  https://github.com/jonathanong/heroku-buildpack-ffmpeg-latest
  https://github.com/clhuang/heroku-buildpack-webp-binaries.git
 ```
-# Instalasi
-## Heroku Buildpack
+# ❕
+## JANGAN LUPA FOLLOW YE
 ```bash
 Jangan lupa Follow& Subscribe yt Zeeone
 https://github.com/zeeoneofc 
- 
+ https://youtube.com/c/zeeoneofc
 ```
