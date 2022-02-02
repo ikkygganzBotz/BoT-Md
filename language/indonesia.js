@@ -6,7 +6,7 @@ exports.wait = () => {
 }
 
 exports.ok = () => {
-    return `✅ Done. Ok desu~`
+    return `✅ Done. Ok Bang~`
 }
 
 exports.err = () => {
@@ -87,7 +87,7 @@ exports.notNum = (q) => {
 }
 exports.menunya = (salam, pushname) =>{
 	return`Hai kak ${pushname} 👋 selamat ${salam} , 
-saya Alphabot-Md, bot ini adalah Beta Multi-Device Whatsapp. 
+saya BOT ツˣᴿᶻズガx, bot ini adalah Beta Multi-Device Whatsapp. 
 Jika kamu menemukan semacam bug atau kesalahan mohon dimaklumi dulu ya, 
 lapor owner agar segera di perbaiki 🙏      
 `
@@ -95,7 +95,7 @@ lapor owner agar segera di perbaiki 🙏
 exports.listMenu = (time, salam, pushname, prefix) => {
     return `*Selamat ${salam} ${pushname}*
 *⌚Time Server : ${time}*
-*📚 List-Menu Alphabot-Md :*
+*📚 List-Menu BOT ツˣᴿᶻズガx :*
 
 ╭─❒ 「 Bot Info 」 
 ├ ${prefix}owner
@@ -651,7 +651,7 @@ exports.welcome = () =>{
 ╰❒ 𝖯𝖺𝗍𝗎𝗁𝗂 𝗋𝗎𝗅𝖾𝗌 𝗀𝗋𝗎𝗉 𝗒𝖺 𝗄𝖺k ~`
 }
 exports.leave = () =>{
-	return`Yah kok out 😣 Mental aman kan kak >.<
+	return`Yah kok out 🥴 Mental aman kan kak >.<
 Goodbye`
 }
 exports.source = () =>{
@@ -665,7 +665,7 @@ exports.tos = (ownernomer) => {
     return `
 *-------「 DONATE 」 -------*
 
-Hai kak ☺️ 
+Hai kak 😌 
 Kalian bisa mendukung saya agar bot ini tetap up to date dengan cara donasi
 
 Berapapun donasi kalian akan sangat berarti 👍
@@ -1202,7 +1202,7 @@ return`╭─❒ 「 Others 」
 }
 
 exports.tqto = () =>{
-	return`╭─❒ 「 TqTo 」 
+	return`╭─❒ 「 Thanksto 」 
 ├ My God
 ├ My Parents
 ├ Fatih A.
