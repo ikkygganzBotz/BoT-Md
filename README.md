@@ -8,7 +8,7 @@
 # ❕
 ## JANGAN LUPA FOLLOW YE
 ```bash
-Jangan lupa Follow& Subscribe yt Zeeone
+Jangan lupa Follow & Subscribe yt Zeeone
 https://github.com/zeeoneofc 
  https://youtube.com/c/zeeoneofc
 ```
